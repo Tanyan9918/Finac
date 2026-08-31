@@ -1,0 +1,17 @@
+Background:
+    Budgeting Money
+    Allocating Funds
+    Investments
+    Debt Release
+    Financial Mapping
+
+Business Objectives:
+    Five Users at Once
+    
+
+Vision Statement:
+
+Business Risk:
+
+Assumptions/Dependencies:
+
