@@ -1,3 +1,4 @@
+Team: Tanyan Mars, Eli Walker, Trevor Jones, Michael Bobbitt, Artemio Baltazar
 User Story
 Requirement 1:
     As a user
