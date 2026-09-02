@@ -1,0 +1,347 @@
+<Id>: 1
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 2
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 3
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 4
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 5
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 6
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 7
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 8
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 9
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 10
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 11
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 12
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 13
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 14
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 15
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 16
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 17
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 18
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 19
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 20
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 21
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 22
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 23
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 24
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 25
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 26
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 27
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 29
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 
+
+<Id>: 30
+<Author>: All of us
+<Origin/Source>: All of us
+<Rationale>:
+<Priority>:
+<Status>:
+<Validation Method>:
+<acceptance Criteria>:
+<Estimate>:
+<Dependencies>: 
+<Requirement Explained>: 

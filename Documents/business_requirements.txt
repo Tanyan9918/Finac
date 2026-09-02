@@ -1,17 +1,150 @@
-Background:
-    Budgeting Money
-    Allocating Funds
-    Investments
-    Debt Release
-    Financial Mapping
+User Story
+Requirement 1:
+    As a user
+    I want to be able to login and have my preferences saved
+    So that I can easily login without having to update all of my preferences each time
 
-Business Objectives:
-    Five Users at Once
-    
+Requirement 2:
+    As a user 
+    I want two factor authentication 
+    So that my information is properly stored and more difficult for unknown users to get in
 
-Vision Statement:
+Requirement 3:
+    As a new user
+    I want to connect my bank account
+    So that I can use the finacnial advice and investments
 
-Business Risk:
+Requirement 4:
+    As an existing user
+    I want to be able to edit account information
+    So that I can edit previous bank or investment accounts
 
-Assumptions/Dependencies:
+Requirement 5:
+    As a user
+    I want to see my portfolio
+    So that I can determine what financial advice I want to follow
 
+Requirement 6:
+    As a user
+    I want to see my transaction history
+    So that I can determine what I need to cut back on
+
+Requirement 7:
+    As a user 
+    I want to edit savings and investment goals
+    So that I can compare investment and saving strategies
+
+Requirement 8:
+    As a user 
+    I want to be given saving and investment goal ides
+    So that I can figure out what works best for me
+
+Requirement 9:
+    As a user
+    I want to be able to have multiple bank accounts
+    So that I can see all of my financial options
+
+Requirement 10:
+    As a user
+    I want to be able to have multiple portfolio saved
+    So that I can see all of my account portfolios 
+
+Requirement 11:
+    As a user
+    I want to be able to see my progress to my goals
+    So that I can see how much I have made and how much more I need to go
+
+Requirement 12:
+    As a user
+    I want to be able to give feedback
+    So that if I see any issues I can report them
+
+Requirement 13:
+    As a user
+    I want to be able create goals towards saving and investments
+    So that I can track my progress
+
+Requirement 14:
+    As a user
+    I want to be able to export my portfolios
+    So that I can have other looks at them as well
+
+Requirement 15:
+    As a user
+    I want to be able to easily navigate through it
+    So that I can find everything without hunting
+
+Requirement 16:
+    As a user 
+    I want to visional representation of my money
+    So that I can see and understand it better
+
+Requirement 17: 
+    As a user 
+    I want to visional representation of my goals
+    So that I can see and understand it in an easier way
+
+Requirement 18:
+    As a user
+    I want to see current stocks I have
+    So that I can determine my next step
+
+Requirement 19:
+    As an admin
+    I want to manage user accounts and permissions
+    So that I can change user permissions
+
+Requirement 20:
+    As a user
+    I want to be able to delete my account
+    So that if I no longer want the website to keep my information
+
+Requirement 21:
+    As an admin
+    I want to see user logs
+    So that I can verify the intergrity of the accounts
+
+Requirement 22:
+    As an admin
+    I want to see account informations
+    So that I can see current users
+
+Requirement 23:
+    As a user
+    I want to be able to reset my password
+    So that if I forget my password I can still get it fixed
+
+Requirement 24:
+    As a user
+    I want to save portfolio history
+    So that I can see previous months and years
+
+Requirement 25:
+    As an admin
+    I want to see how long users have been on
+    So that I can verfiy they are still using it properly
+
+Requirement 26:
+    As an admin
+    I want to be able to timeout user
+    So that I can time them out if they have been on too long or if they are doing shady stuff
+
+Requirement 27:
+    As a user
+    I want to be able to give transactions categories
+    So that I can follow what category my money is going
+
+Requirement 28:
+    As an admin
+    I want to be alerted when someone is logging in too many times
+    So that I canblock that person or see what they are doing
+
+Requirement 29:
+    As an admin
+    I want to be alerted when someone has failed to login too many times
+    So that I can block or help the user
+
+Requirement 30:
+    As a user
+    I want to read into the creators history
+    So that I can determine if I want to use them or not
