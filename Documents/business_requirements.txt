@@ -4,148 +4,240 @@ Requirement 1:
     As a user
     I want to be able to login and have my preferences saved
     So that I can easily login without having to update all of my preferences each time
+    Priority: High
+    Reasoning: users need reliable account access. Saving preferences provides a personalized experiences
+    Acceptance Criteria: The user can successfully log in using account information. The user can change and save their account preferences. Saved preferences are restored when the user logs out and logs back in.
+    
 
 Requirement 2:
     As a user 
     I want two factor authentication 
     So that my information is properly stored and more difficult for unknown users to get in
+    Priority: High
+    Reasoning: The app contains sensitive personal and financial information
+    Acceptance Criteria: User is prompted a second authentication factor. Entering a verification code allows the user to access their account. Entering an invalid code prevents access to the account.
+
 
 Requirement 3:
     As a new user
     I want to connect my bank account
     So that I can use the finacnial advice and investments
+    Priority: High
+    Reasoning: Bank connections provide the financial data needed for the app's features
+    Acceptance Criteria: User can select an option to connect a bank account. A linked bank account appears in the user's list of bank accounts. If the link fails, an error displays and does not add the account.
 
 Requirement 4:
     As an existing user
     I want to be able to edit account information
     So that I can edit previous bank or investment accounts
+    Priority:High
+    Reasoning: Users need to maintain and update their linked accounts
+    Acceptance Criteria: The user can select an account to edit. The user can modify valid account information and save the changes. Saved changes are displayed upon viewing again.
 
 Requirement 5:
     As a user
     I want to see my portfolio
     So that I can determine what financial advice I want to follow
+    Priority: High
+    Reasoning: Portfolio tracking is one of the app's main features
+    Acceptance Criteria: User can access their saved portfolios. Portfolio displays current investments. The app displays the correct value of the portfolio.
 
 Requirement 6:
     As a user
     I want to see my transaction history
     So that I can determine what I need to cut back on
+    Priority: High
+    Reasoning: Transaction data is necessary for users to analyze their spending and financial habits
+    Acceptance Criteria: Users can access a history of transactions. Each transaction displays date, description and accounts. Each transaction displays correct data and in chronological order.
 
 Requirement 7:
     As a user 
     I want to edit savings and investment goals
     So that I can compare investment and saving strategies
+    Priority: High
+    Reasoning: Users need to update their goals as their financial goals change.
+    Acceptance Criteria: User can select an existing savings or goal to edit. User can modify information such as the target amount or target. Saved changes are displayed when the user views the goal.
 
 Requirement 8:
     As a user 
     I want to be given saving and investment goal ides
     So that I can figure out what works best for me
+    Priority: Medium
+    Reasoning: Suggestions will add value to the advice portion of the app but aren't necessary for basic functionality. 
+    Acceptance Criteria: The app provides the user with goal suggestions. Each suggestion has enough info for the user to understand the goal. The user can select a suggested goal to begin creating a new one.
 
 Requirement 9:
     As a user
     I want to be able to have multiple bank accounts
     So that I can see all of my financial options
+    Priority: High
+    Reasoning: Multiple accounts gives users a more complete picture of their finances.
+    Acceptance Criteria: User can connect more than 1 bank account to their profile. Each connected bank account is displayed correctly. Adding a new account doesn't overwrite an existing one.
 
 Requirement 10:
     As a user
     I want to be able to have multiple portfolio saved
     So that I can see all of my account portfolios 
+    Priority: Medium
+    Reasoning: Useful with users with multiple portfolios but the application could function with just one porftolio.
+    Acceptance Criteria: User can create and save more than 1 portfolio. Each portfolio can be viewed individually. Changes in one portfolio doesn't overwrite info in another.
 
 Requirement 11:
     As a user
     I want to be able to see my progress to my goals
     So that I can see how much I have made and how much more I need to go
+    Priority: High
+    Reasoning: Tracking progress is a core part of making savings and investment goals useful.
+    Acceptance Criteria: User can view their current progress towards goal. The app displays the amount currently saved/invested toward the target. Goal progress updates when the amount associated with the goal changes.
 
 Requirement 12:
     As a user
     I want to be able to give feedback
     So that if I see any issues I can report them
+    Priority: Low
+    Reasoning: Feedback helps improve the app but isn't necessary for financial features to operate.
+    Acceptance Criteria: User can access a feedback form. User can enter and submit feedback. The app confirms the form was submitted. 
 
 Requirement 13:
     As a user
     I want to be able create goals towards saving and investments
     So that I can track my progress
+    Priority: High
+    Reasoning: Users must be able to create goals so they can track/edit them.
+    Acceptance Criteria: The user can create a new savings or investment goal. The user can enter a name, target and target date. A successfully created goal is saved and appears in the list of goals.
 
 Requirement 14:
     As a user
     I want to be able to export my portfolios
     So that I can have other looks at them as well
+    Priority: Medium
+    Reasoning: Exporting is useful for sharing analysis but isn't required for portfolio tracking itself
+    Acceptance Criteria: User can select a portfolio to export. The app generates an export with the portfolio information. The user can save or download the file.
 
 Requirement 15:
     As a user
     I want to be able to easily navigate through it
     So that I can find everything without hunting
+    Priority: High
+    Reasoning: Users will need to be able to access the app's major features
+    Acceptance Criteria: The user can access the app's primary features through the main nav menu. Nav options are displayed throughout the main pages. Choosing a nav option takes the user to the correct page.
 
 Requirement 16:
     As a user 
     I want to visional representation of my money
     So that I can see and understand it better
+    Priority: Medium
+    Reasoning: Charts and other visuals will improve understanding
+    Acceptance Criteria: The user can view their financial information using at least one chart or graph. The visual is accurate. The visual updates when financial info changes.
 
 Requirement 17: 
     As a user 
     I want to visional representation of my goals
     So that I can see and understand it in an easier way
+    Priority: Medium
+    Reasoning: Visual progress help with progress tracking
+    Acceptance Criteria: The user can view the progress of their goals. The visual represents the user's current progress accurately. Visual updates when the goal progress changes.
 
 Requirement 18:
     As a user
     I want to see current stocks I have
     So that I can determine my next step
+    Priority: High
+    Reasoning: Users need to see their investments to understand and manage their portfolio.
+    Acceptance Criteria: The user can view the stocks in their portfolio. Each stock displays correct info. Number of shares are displayed.
 
 Requirement 19:
     As an admin
     I want to manage user accounts and permissions
     So that I can change user permissions
+    Priority: High
+    Reasoning: Admin acct management is important for user permissions and controlling systems.
+    Acceptance Criteria: Admin can view user accounts. Admin can change permissions. Updated permissions are saved and applied.
 
 Requirement 20:
     As a user
     I want to be able to delete my account
     So that if I no longer want the website to keep my information
+    Priority: High
+    Reasoning: Users need to have control over their account and info associated with it.
+    Acceptance Criteria: User can delete their account. App requires user to confirm deletion.
 
 Requirement 21:
     As an admin
     I want to see user logs
     So that I can verify the intergrity of the accounts
+    Priority: High
+    Reasoning: Logs are important for security and troubleshooting as well as monitoring account activity.
+    Acceptance Criteria: Admin can access logs for user accounts. The logs displays info like login attempts, dates and times. Users without admin permissions cannot access the logs.
 
 Requirement 22:
     As an admin
     I want to see account informations
     So that I can see current users
+    Priority: High
+    Reasoning: Admins need access to user account info for account management and support.
+    Acceptance Criteria: An admin can access a list of user accounts. The admin can select an account to view its relevant account info. Account info displayed is accurate.
 
 Requirement 23:
     As a user
     I want to be able to reset my password
     So that if I forget my password I can still get it fixed
+    Priority: High
+    Reasoning: Account recovery is essential when users forget or lose their password.
+    Acceptance Criteria: User can select a password reset option. User must verify their account before creating a new password. After a reset the user can use the new password to login.
 
 Requirement 24:
     As a user
     I want to save portfolio history
     So that I can see previous months and years
+    Priority: Medium
+    Reasoning: Historical data is valuable but isn't required to display a current portfolio
+    Acceptance Criteria: The application stores historical portfolio info. User can select and view  portfolio info form previous periods. Historical data remains available without overwriting current portfolio.
 
 Requirement 25:
     As an admin
     I want to see how long users have been on
     So that I can verfiy they are still using it properly
+    Priority: Low
+    Reasoning: Session duration may help with monitoring but isn't integral to the app's functionality.
+    Acceptance Criteria: An admin can view the active sessions of users currently logged on. App displays the duration of each session. Session duration updates periodically. 
 
 Requirement 26:
     As an admin
     I want to be able to timeout user
     So that I can time them out if they have been on too long or if they are doing shady stuff
+    Priority: Medium
+    Reasoning: Provides an extra security control if suspicious activity is detected.
+    Acceptance Criteria: Admin can select an active user session to terminate. After the session is terminated the user must login again to regain access.
 
 Requirement 27:
     As a user
     I want to be able to give transactions categories
     So that I can follow what category my money is going
+    Priority: High
+    Reasoning: Categories are important to analyze spending and understanding where the money is going.
+    Acceptance Criteria: User can assign a category to a transaction. The category is saved and displayed with the transaction. The user can change the category.
 
 Requirement 28:
     As an admin
     I want to be alerted when someone is logging in too many times
     So that I canblock that person or see what they are doing
+    Priority: Medium
+    Reasoning: This improves security monitoring but is not required for normal authentication.
+    Acceptance Criteria: The app detects when an account exceeds a defined number of login attempts. An alert is generated for an admin. The alert identifies the account and time of the unusual activity.
 
 Requirement 29:
     As an admin
     I want to be alerted when someone has failed to login too many times
     So that I can block or help the user
+    Priority: High
+    Reasoning: Repeated failed attempts can indicate unauthorized access and should trigger a security response.
+    Acceptance Criteria: The app tracks unsuccessful login attempts. Admin is alerted when an account exceeds a certain amount of failed login tries. A successful login resets the counter.
 
 Requirement 30:
     As a user
     I want to read into the creators history
     So that I can determine if I want to use them or not
+    Priority: Low
+    Reasoning: Creator info may build trust but does not contribute directly to the app's functionality. 
+    Acceptance Criteria: The user can access information about the application's creators. The creator page displays background info about the team.
