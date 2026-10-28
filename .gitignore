@@ -1,0 +1,7 @@
+#ignoring environment variables
+.env
+.env.local
+
+#ignoring cache files
+*.cache
+
