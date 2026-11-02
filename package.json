@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "dotenv": "^18.0.9",
     "plaid": "^50.0.0",
     "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6"
   }
 }
