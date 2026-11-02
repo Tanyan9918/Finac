@@ -2,7 +2,9 @@ import plaid, {
     ItemPublicTokenExchangeRequest,
     Products,
     AccountsGetRequest,
-    LinkTokenCreateRequest
+    LinkTokenCreateRequest,
+    TransactionsGetRequest,
+    TransactionsRefreshRequest
 } from 'plaid';
 
 class APIPlaid{
@@ -64,6 +66,48 @@ class APIPlaid{
         try {
             const response = await plaidClient.accountsGet(request);
             const accounts = response.data.accounts;
+        } catch (error) {
+            // handle error
+        }
+    }
+
+    public async transactions_get(): Promise<void>{
+        const request: TransactionsGetRequest = {
+        access_token: accessToken,
+        start_date: '2018-01-01',
+        end_date: '2020-02-01',
+        };
+
+        try {
+            const response = await client.transactionsGet(request);
+            let transactions = response.data.transactions;
+            const total_transactions = response.data.total_transactions;
+            // Manipulate the offset parameter to paginate
+            // transactions and retrieve all available data
+
+            while (transactions.length < total_transactions) {
+                const paginatedRequest: TransactionsGetRequest = {
+                    access_token: accessToken,
+                    start_date: '2018-01-01',
+                    end_date: '2020-02-01',
+                    options: {
+                        offset: transactions.length,
+                    },
+                };
+                const paginatedResponse = await client.transactionsGet(paginatedRequest);
+                transactions = transactions.concat(paginatedResponse.data.transactions);
+            }
+        } catch (err) {
+            // handle error
+        }
+    }
+
+    public async transactions_refresh(): Promise<void>{
+        const request: TransactionsRefreshRequest = {
+            access_token: accessToken,
+        };
+        try {
+            await plaidClient.transactionsRefresh(request);
         } catch (error) {
             // handle error
         }
